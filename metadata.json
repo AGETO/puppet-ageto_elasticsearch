@@ -1,0 +1,22 @@
+{
+  "name": "gunnar-ageto_elasticsearch",
+  "author": "Gunnar Wagenknecht",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "Module for elasticsearch installation at AGETO",
+  "version": "1.0",
+  "checksums": {
+    "Modulefile": "2d6188e2e7c3430a2c7ec859ab0da6b7",
+    "README.markdown": "a9ce8db681d147318c7ec03f7469a2df",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "c34c5e71b8b1769f1d7849b137ff2310",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "templates/config/elasticsearch.yml.erb": "09491d1f695ee4a5f95b9df2e88a4e9e",
+    "templates/config/logging.yml.erb": "06e1320add63cded00a91767c0016a2b",
+    "templates/service/elasticsearch_service_redhat.erb": "6da18ddccbbb0bb9023606c4c5d1303f"
+  },
+  "dependencies": []
+}
